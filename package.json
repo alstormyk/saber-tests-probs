@@ -8,7 +8,7 @@
     "generate": "saber generate"
   },
   "dependencies": {
-    "markdown-it-container": "^2.0.0"
+    "markdown-it-div": "^1.1.0"
   },
   "devDependencies": {
     "saber": "^0.3.6",

@@ -4,6 +4,6 @@ layout: page
 
 ## About me
 
-::: warning
+::: #warning
 *here be dragons*
 :::

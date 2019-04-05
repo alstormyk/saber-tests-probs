@@ -162,4 +162,8 @@ html {
   label, legend, fieldset {
     display: block;
     margin-bottom: .5rem;
-  font-weight: 600; }
+    font-weight: 600; }
+
+#warning {
+  background: pink;
+}
