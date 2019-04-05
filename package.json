@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "saber",
+    "generate": "saber generate"
+  },
+  "dependencies": {
+    "markdown-it-container": "^2.0.0"
+  },
+  "devDependencies": {
+    "saber": "^0.3.6",
+    "vue-compile": "^0.5.3"
+  }
+}

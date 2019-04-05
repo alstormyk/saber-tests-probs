@@ -1,0 +1,14 @@
+siteConfig:
+  title: saber tests
+  description: A description.
+
+themeConfig:
+  nav: 
+    - text: Home
+      link: /
+    - text: About
+      link: /about.html
+
+markdown:
+  plugins:
+    - resolve: markdown-it-container
